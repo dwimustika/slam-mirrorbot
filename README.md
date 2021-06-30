@@ -1,4 +1,4 @@
-[![Slam](https://telegra.ph/file/db03910496f06094f1f7a.jpg)](https://youtu.be/Pk_TthHfLeE)
+[![Slam](https://i.ibb.co/W3XqXHv/photo-2021-06-30-23-02-25.jpg)](https://youtu.be/Pk_TthHfLeE)
 
 # Slam Mirror Bot
 This is a Telegram bot writen in Python for mirroring files on the Internet to our beloved Google Drive.
